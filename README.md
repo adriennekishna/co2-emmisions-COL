@@ -1,4 +1,4 @@
-# co2-emmisions-# CO2 Emissions Analysis: Zimbabwe
+CO2 Emissions Analysis: Zimbabwe
 
 ## Overview
 This repository presents an exploratory data analysis and visualization of historical Carbon Dioxide ($\text{CO}_2$) emissions in **Zimbabwe** using R. All data processing steps, R scripts, and output visualizations are documented below.
